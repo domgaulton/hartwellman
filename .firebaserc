@@ -1,0 +1,9 @@
+{
+  "hosting": {
+    "site": "hartwellman",
+    "public": "public"
+  },
+  "projects": {
+    "default": "dg-projects-27574"
+  }
+}
